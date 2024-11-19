@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Anadara_kagoshimensis', 'Dreissena_bugensis', 'Dreissena_polymorpha', 'Monodacna_colorata', 'Mytilaster_lineatus', 'Mytilus_galloprovincialis']
+
+roboflow:
+  workspace: beesknight
+  project: mollusk-ull9y
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/beesknight/mollusk-ull9y/dataset/2

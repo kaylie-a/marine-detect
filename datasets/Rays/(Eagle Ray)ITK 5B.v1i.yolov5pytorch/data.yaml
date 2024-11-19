@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Aetomylus-nichofii']
+
+roboflow:
+  workspace: universitas-jenderal-soedirman
+  project: itk-5b
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/universitas-jenderal-soedirman/itk-5b/dataset/1

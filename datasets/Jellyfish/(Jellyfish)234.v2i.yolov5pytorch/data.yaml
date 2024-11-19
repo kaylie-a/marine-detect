@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 13
+names: ['Comb', 'Dressed', 'Fish', 'FriedEggs', 'GoldThorn', 'Handstand', 'LightHouse', 'LionMane', 'Moon', 'Mosaic', 'Saltpeter', 'Speckle', 'StarThorn']
+
+roboflow:
+  workspace: dididi-iyjkv
+  project: 234-pvoaf
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/dididi-iyjkv/234-pvoaf/dataset/2

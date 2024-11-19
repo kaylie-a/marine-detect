@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Amphiprion-percula']
+
+roboflow:
+  workspace: itk-amrull
+  project: -amphiprion-percula
+  version: 3
+  license: Public Domain
+  url: https://universe.roboflow.com/itk-amrull/-amphiprion-percula/dataset/3
