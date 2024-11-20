@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Fistularia commersonii']
+
+roboflow:
+  workspace: msc-pt2
+  project: msc-pt-2
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/msc-pt2/msc-pt-2/dataset/2

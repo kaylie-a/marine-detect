@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['lobster']
+
+roboflow:
+  workspace: project
+  project: cd-fc6du
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project/cd-fc6du/dataset/1

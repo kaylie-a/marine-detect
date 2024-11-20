@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['SQUID']
+
+roboflow:
+  workspace: brenda-brmqg
+  project: squid-image-dataset
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/brenda-brmqg/squid-image-dataset/dataset/1

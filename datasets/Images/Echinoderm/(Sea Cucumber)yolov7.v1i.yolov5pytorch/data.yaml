@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: x-qs9uz
+  project: yolov7-ygg6l
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/x-qs9uz/yolov7-ygg6l/dataset/1

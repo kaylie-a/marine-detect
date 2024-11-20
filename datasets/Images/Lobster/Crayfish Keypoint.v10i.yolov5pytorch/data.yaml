@@ -1,0 +1,16 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+kpt_shape: [3, 3]
+flip_idx: [0, 1, 2]
+
+nc: 1
+names: ['Crayfish']
+
+roboflow:
+  workspace: workspace-y6nn1
+  project: crayfish-keypoint
+  version: 10
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/workspace-y6nn1/crayfish-keypoint/dataset/10
