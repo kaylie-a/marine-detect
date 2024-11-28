@@ -2,4 +2,4 @@ train: ../train/images
 val: ../valid/images
 
 nc: 4
-names: ['bulldog-shark', 'mako-shark', 'tiger-shark', 'white-shark']
+names: ['Bulldog Shark', 'Mako Shark', 'Tiger Shark', 'White Shark']
