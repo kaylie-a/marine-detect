@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Leopard coral grouper']
+
+roboflow:
+  workspace: unsoed-d5e9h
+  project: plectropomus-leopardus-otdg9
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/unsoed-d5e9h/plectropomus-leopardus-otdg9/dataset/1

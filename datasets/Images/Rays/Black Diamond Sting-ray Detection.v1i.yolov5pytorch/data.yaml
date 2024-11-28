@@ -3,7 +3,7 @@ val: ../valid/images
 test: ../test/images
 
 nc: 2
-names: ['albino-sting-ray', 'black-diamond-sting-ray']
+names: ['Albino Sting Ray', 'Black Diamond Sting Ray']
 
 roboflow:
   workspace: project

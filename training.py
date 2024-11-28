@@ -7,4 +7,4 @@ current_dir = os.getcwd()
 model = YOLO() 
 
 # Train the model on your custom dataset
-model.train(data=current_dir+"\\datasets\\Images\\Dolphin\\(Common Dolphin)dophin.v1i.yolov5pytorch\\data.yaml", epochs=100)
+model.train(data=current_dir+"\\datasets\\Images\\Fish\\(Clownfish)-Amphiprion-percula-.v3i.yolov5pytorch\\data.yaml", epochs=50)
