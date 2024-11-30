@@ -3,8 +3,11 @@ import os
 
 current_dir = os.getcwd()
 
-# Load a pretrained model (optional)
-model = YOLO(current_dir+"\\models\\clownfish_model.pt")
+# Load a model for training
+#model = YOLO(current_dir+"\\models\\clownfish_model.pt")
+model = YOLO()
 
-# Train the model on your custom dataset
-model.train(data=current_dir+"\\datasets\\Images\\Fish\\(Clownfish)-Amphiprion-percula-.v3i.yolov5pytorch\\data.yaml", epochs=50)
+# Train the model from dataset
+# epoch: number of passes for training
+# Output for training goes to runs\detect
+model.train(data=current_dir+"\\datasets\\Images\\Squid\\Squid Image Dataset.v1i.yolov5pytorch\\data.yaml", epochs=100)
