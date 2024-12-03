@@ -4,7 +4,6 @@ import os
 current_dir = os.getcwd()
 
 # Load a model for training
-#model = YOLO(current_dir+"\\models\\clownfish_model.pt")
 model = YOLO()
 
 # Train the model from dataset

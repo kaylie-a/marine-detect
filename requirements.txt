@@ -17,3 +17,4 @@ opencv-python==4.8.0.74
 tqdm==4.65.0
 ultralytics==8.0.200
 pillow==10.0.0
+scikit-learn==1.5.2
