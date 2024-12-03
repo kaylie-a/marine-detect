@@ -185,6 +185,23 @@ For example:
 - GBIF.org (19 December 2023) GBIF Occurrence Download  https://doi.org/10.15468/dl.32mwtb
 
 
+- Mussels: https://universe.roboflow.com/beesknight/mollusk-ull9y
+- Dolphin: https://universe.roboflow.com/underwater-fish-f6cri/dophin
+- Clownfish: https://universe.roboflow.com/itk-amrull/amphiprion_percula
+- Flounder: https://universe.roboflow.com/belltree86/flounder
+- Leopard coral grouper: https://universe.roboflow.com/unsoed-d5e9h/plectropomus-leopardus-otdg9
+- Bluespotted cornetfish: https://universe.roboflow.com/msc-pt2/msc-pt-2
+- Lobster: https://universe.roboflow.com/project-ppzen/cd-fc6du
+- Octopus: https://universe.roboflow.com/csj/octo-vwken
+- Banded Eagle Ray:  https://universe.roboflow.com/universitas-jenderal-soedirman/itk-5b
+- Black Diamond & Albino Stingray: https://universe.roboflow.com/arandii/black-diamond-sting-ray-detection
+- Seahorse: https://universe.roboflow.com/andre-rsy7b/seahorse-fazfj
+- Sharks: https://universe.roboflow.com/bioshark/white-sharks
+- Squid: https://universe.roboflow.com/brenda-brmqg/squid-image-dataset
+
+- Clownfish video: https://www.pexels.com/video/close-up-footage-of-a-clown-fish-5548246/
+
+
 ### Model
 
 - Jocher, G., Chaurasia, A., & Qiu, J. (2023). Ultralytics YOLO (Version 8.0.0) [Computer software]. https://github.com/ultralytics/ultralytics
